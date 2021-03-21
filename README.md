@@ -5,5 +5,4 @@ I´m a Senior Full Stack Developer, Digital Marketing (SEO/SEM) and Social Media
 
 💬 linktr.ee/olavomello
 
-Mineiro ♥
-Code lover ♥
+♥ Minas Gerais-BR / Coding / Family guy ;)
