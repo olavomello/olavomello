@@ -6,4 +6,4 @@ I´m a Senior Full Stack Developer, Digital Marketing (SEO/SEM) and Social Media
 💬 <a href="https://linktr.ee/olavomello" target="_blank">linktr.ee/olavomello</a>
 
 ♥ Minas Gerais-BR / Coding / Family guy ;)
-<br>Moving to :canada: Canada
+<br>Moving to London-ON :canada: Canada
