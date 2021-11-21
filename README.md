@@ -17,10 +17,11 @@ https://www.youtube.com/watch?v=c_1CwmLRGpI<br>
 <hr>
 <div align="center" dir="auto">
   <a href="https://github.com/olavomello">
-    ```md[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olavomello)](https://github.com/olavomello/github-readme-stats)```
-    ```md[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olavomello&hide=contribs,prs)```
-    ```md[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olavomello&count_private=true)```
-    ```md[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olavomello&show_icons=true&theme=radical)```
-    ```md[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=olavomello&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)```
-    ```md[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olavomello)](https://github.com/anuraghazra/github-readme-stats)```
+    ![GitHub Status](https://github-readme-stats.vercel.app/api?username=olavomello&show_icons=true)
+    ![GitHub Status](https://github-readme-stats.vercel.app/api?username=olavomello)](https://github.com/olavomello/github-readme-stats)
+    ![GitHub Status](https://github-readme-stats.vercel.app/api?username=olavomello&count_private=true)
+    ![GitHub Status](https://github-readme-stats.vercel.app/api?username=olavomello&show_icons=true&theme=radical)
+    ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=olavomello&repo=github-readme-stats)](https://github.com/olavomello/github-readme-stats)
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olavomello)](https://github.com/olavomello/github-readme-stats)
+  </a>
 </div>
