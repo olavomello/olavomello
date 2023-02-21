@@ -12,8 +12,7 @@ I´m a Senior Full Stack Developer, SEO/SEM and Social Media Expert.🚀 <br>
 <a target="_blank" href="https://www.youtube.com/watch?v=c_1CwmLRGpI">My version of Spotify Player ( ReactJs + PureCSS )</a><br>
 <br>
 
-♥ Minas Gerais-BR / Coding / Family guy ;)
-<br>Moving to London-ON :canada: Canada
+♥ From Minas Gerais 🇧🇷: > Living in Kitchener-ON :canada: Canada
 
 <div dir="auto"><br>
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
