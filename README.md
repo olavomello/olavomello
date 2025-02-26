@@ -1,8 +1,8 @@
 ### Hello there 👋
 
 <g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji>
-I´m a Senior Full Stack Developer, SEO/SEM and Social Media Expert.🚀 <br>
-⚡ Challenge lover, chat me to new projects, consulting or if you need any help ! 😄
+I'm a Senior Full Stack Developer and SEO/SEM Specialist.🚀 <br>
+⚡ Challenge lover, chat me to new projects, consulting, or if you need any help! 😄
 
 💬 See more or contact-me on : <a href="https://linktr.ee/olavomello" target="_blank">linktr.ee/olavomello</a>
 
