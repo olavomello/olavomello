@@ -8,7 +8,7 @@ I'm a Senior Full Stack Developer and SEO/SEM Specialist.🚀 <br>
 
 🎥 <b>Dev screen share</b><br>
 <a target="_blank" href="https://www.linkedin.com/posts/olavo-mello_backenddeveloper-typescript-nodejs-activity-6850705796758556672-6qV8">Backend being born ( Typescript + NodeJS + Sequelize + MySQL )</a><br>
-<a target="_blank" href="https://www.youtube.com/watch?v=Nx4f5epft3Y">Frontend on fire ( AdoveXD + Html + CSS )</a><br>
+<a target="_blank" href="https://www.youtube.com/watch?v=Nx4f5epft3Y">Frontend on fire ( AdobeXD + Html + CSS )</a><br>
 <a target="_blank" href="https://www.youtube.com/watch?v=c_1CwmLRGpI">My version of Spotify Player ( ReactJs + PureCSS )</a><br>
 <br>
 
