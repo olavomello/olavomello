@@ -23,17 +23,3 @@ I'm a Senior Full Stack Developer and SEO/SEM Specialist.🚀 <br>
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
-<br>
-
-<table cellpadding="0" border="0" style="padding:0;border:0;margin:0;">
-  <tr>
-    <!-- GitHub Stats Card -->  
-    <td valign="top" style="border:0;">
-      <img height="200" src="https://github-readme-stats.vercel.app/api?username=olavomello&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"/>
-    </td>
-    <!-- GitHub Top Language Card -->
-    <td valign="top" style="border:0;">
-      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olavomello&langs_count=6&layout=compact&theme=tokyonight&hide_border=true"/>
-    </td>
-  </tr>
-</table>
