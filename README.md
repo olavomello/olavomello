@@ -5,15 +5,17 @@ I'm a Senior Full Stack Developer and SEO/SEM Specialist.🚀 <br>
 ⚡ Challenge lover, chat me to new projects, consulting, or if you need any help! 😄
 
 💬 See more or contact-me on : <a href="https://linktr.ee/olavomello" target="_blank">linktr.ee/olavomello</a>
+<br>
 
 📜 <b>Open source recent project:</b><br>
 <a href="https://github.com/olavomello/denox" target="_blank">🦖 DenoX</a> - A modern Full Stack Framework for Deno powered by Hono, zero-config and AI ready.
 <br>
+
 🎥 <b>Dev screen share</b><br>
 <a target="_blank" href="https://www.linkedin.com/posts/olavo-mello_backenddeveloper-typescript-nodejs-activity-6850705796758556672-6qV8">Backend being born ( Typescript + NodeJS + Sequelize + MySQL )</a><br>
 <a target="_blank" href="https://www.youtube.com/watch?v=Nx4f5epft3Y">Frontend on fire ( AdobeXD + Html + CSS )</a><br>
 <a target="_blank" href="https://www.youtube.com/watch?v=c_1CwmLRGpI">My version of Spotify Player ( ReactJs + PureCSS )</a><br>
-<br>
+<br><br>
 
 ♥ From Minas Gerais 🇧🇷: >>> Living in Kitchener-ON :canada:
 
