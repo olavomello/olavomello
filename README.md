@@ -17,8 +17,7 @@ AWS, Docker, Linux, CI/CD, PostgreSQL, MySQL, Redis, cloud deployments, and prod
 
 **Product engineering**  
 From architecture and technical strategy to implementation, deployment, monitoring, and continuous improvement.
-
-### Currently building
+<br>
 
 I'm particularly interested in **AI-native products**, developer tools, automation, intelligent systems, and software that solves real-world problems.
 
