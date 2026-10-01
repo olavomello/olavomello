@@ -1,10 +1,11 @@
-# Senior Full-Stack Engineer | AI Builder | Product Engineer
+# Senior Full-Stack Engineer & AI Engineer | AI Native Builder 
+### | Orchestrating multi-agent to ship 0→1 platforms to 85K+ users, startups to scaleups.
 
 <g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji> I build and ship production software from idea to deployment, combining **full-stack engineering, AI, and product thinking**.
 
 With 25+ years of experience in software development, I specialize in building scalable applications, APIs, SaaS platforms, AI-powered products, and developer tools.
 
-### What I work with
+### | What I work with
 
 **AI & LLMs**  
 LLM integration, AI agents, RAG, prompt engineering, AI-powered workflows, and intelligent product features.
@@ -26,7 +27,7 @@ I'm particularly interested in **AI-native products**, developer tools, automati
 💬 See more or contact-me on : <a href="https://linktr.ee/olavomello" target="_blank">linktr.ee/olavomello</a>
 <br>
 
-📜 <b>Recent project:</b><br><br>
+### | Recent projects:<br>
 <a href="https://bike-talkie.vercel.app/" target="_blank">🚴 Bike Talkie</a> - A native Android app using VOX.
 <br>
 
