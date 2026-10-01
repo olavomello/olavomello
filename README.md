@@ -26,10 +26,22 @@ I'm particularly interested in **AI-native products**, developer tools, automati
 💬 See more or contact-me on : <a href="https://linktr.ee/olavomello" target="_blank">linktr.ee/olavomello</a>
 <br>
 
-📜 <b>Open source recent project:</b><br>
-<a href="https://github.com/olavomello/denox" target="_blank">🦖 DenoX</a> - A modern Full Stack Framework for Deno powered by Hono, zero-config and AI ready.
+📜 <b>Recent project:</b><br><br>
+<a href="https://bike-talkie.vercel.app/" target="_blank">📱 Bike Talkie</a>, A native Android app using VOX.
 <br>
 
+<a href="https://bullsheep.vercel.app/" target="_blank">🐑 Bullsheep</a>, A fun multiplayer group game using WebSockets.
+<br>
+
+<a href="https://couple-quiz-tau.vercel.app/" target="_blank">❤️ Couple Quiz</a>, A card game for couples created using TypeScript.
+<br>
+
+<a href="https://github.com/olavomello/denox" target="_blank">🦖 DenoX </a>, A modern open-source full-stack framework for Deno powered by Hono, zero-config, and AI-ready.
+<br>
+
+<a href="https://roku-app.vercel.app/" target="_blank">📺 Roku TV App</a>, An app for Roku devices.
+<br>
+<br>
 🎥 <b>Dev screen share</b><br>
 <a target="_blank" href="https://www.linkedin.com/posts/olavo-mello_backenddeveloper-typescript-nodejs-activity-6850705796758556672-6qV8">Backend being born ( Typescript + NodeJS + Sequelize + MySQL )</a><br>
 <a target="_blank" href="https://www.youtube.com/watch?v=Nx4f5epft3Y">Frontend on fire ( AdobeXD + Html + CSS )</a><br>
