@@ -27,19 +27,19 @@ I'm particularly interested in **AI-native products**, developer tools, automati
 <br>
 
 📜 <b>Recent project:</b><br><br>
-<a href="https://bike-talkie.vercel.app/" target="_blank">📱 Bike Talkie</a>, A native Android app using VOX.
+<a href="https://bike-talkie.vercel.app/" target="_blank">🚴 Bike Talkie</a> - A native Android app using VOX.
 <br>
 
-<a href="https://bullsheep.vercel.app/" target="_blank">🐑 Bullsheep</a>, A fun multiplayer group game using WebSockets.
+<a href="https://bullsheep.vercel.app/" target="_blank">🐑 Bullsheep</a> - A fun multiplayer group game using WebSockets.
 <br>
 
-<a href="https://couple-quiz-tau.vercel.app/" target="_blank">❤️ Couple Quiz</a>, A card game for couples created using TypeScript.
+<a href="https://couple-quiz-tau.vercel.app/" target="_blank">❤️ Couple Quiz</a> - A card game for couples created using TypeScript.
 <br>
 
-<a href="https://github.com/olavomello/denox" target="_blank">🦖 DenoX </a>, A modern open-source full-stack framework for Deno powered by Hono, zero-config, and AI-ready.
+<a href="https://github.com/olavomello/denox" target="_blank">🦖 DenoX </a> - A modern open-source full-stack framework for Deno powered by Hono, zero-config, and AI-ready.
 <br>
 
-<a href="https://roku-app.vercel.app/" target="_blank">📺 Roku TV App</a>, An app for Roku devices.
+<a href="https://roku-app.vercel.app/" target="_blank">📺 Roku TV App</a> - An app for Roku TVs devices.
 <br>
 <br>
 🎥 <b>Dev screen share</b><br>
