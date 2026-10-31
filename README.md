@@ -43,7 +43,7 @@ I'm particularly interested in **AI-native products**, developer tools, automati
 <a href="https://roku-app.vercel.app/" target="_blank">📺 Roku TV App</a> - An app for Roku TVs devices.
 <br>
 
-<a href="[https://roku-app.vercel.app/](https://github.com/olavomello/ai-project-starter)" target="_blank">⌨️ AI Dash</a> - An open-source AI governance Dashboard and project starter-kit.
+<a href="https://github.com/olavomello/ai-project-starter" target="_blank">⌨️ AI Dash</a> - An open-source AI governance Dashboard and project starter-kit.
 <br>
 
 <br>
