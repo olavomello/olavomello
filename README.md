@@ -42,6 +42,10 @@ I'm particularly interested in **AI-native products**, developer tools, automati
 
 <a href="https://roku-app.vercel.app/" target="_blank">📺 Roku TV App</a> - An app for Roku TVs devices.
 <br>
+
+<a href="[https://roku-app.vercel.app/](https://github.com/olavomello/ai-project-starter)" target="_blank">⌨️ AI Dash</a> - An open-source AI governance Dashboard and project starter-kit.
+<br>
+
 <br>
 🎥 <b>Dev screen share</b><br>
 <a target="_blank" href="https://www.linkedin.com/posts/olavo-mello_backenddeveloper-typescript-nodejs-activity-6850705796758556672-6qV8">Backend being born ( Typescript + NodeJS + Sequelize + MySQL )</a><br>
